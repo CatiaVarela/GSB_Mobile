@@ -1,0 +1,12 @@
+spe_code ,spe_libelle
+0,'Généraliste'
+1,'Angiologie'
+2,'Cardiologie'
+3,'Rumathologie'
+4,'Ophtalmologie'
+5,'Gyncologie'
+6,'Psychiatrie'
+7,'Oncologie'
+8,'Stomatologie'
+9,'Chirurgie'
+10,'Dentaire'
