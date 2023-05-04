@@ -1,0 +1,5 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Gsbregion		NFI		nouveau fichier
+Specialite		FIC-	Specialite	Fichier supprimé Specialite
+Region		FIC-	Region	Fichier supprimé Region
+Medecin		FIC-	Medecin	Fichier supprimé Medecin

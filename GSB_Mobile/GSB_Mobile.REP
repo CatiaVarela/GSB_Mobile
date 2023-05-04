@@ -1,0 +1,13 @@
+;PCSoft - Hyper File V7.00 - REP V7.00
+;Do not edit. Please use specific tools.
+ANALYSISGUID=3	;Analysis GUID
+LOCALIZATION_UTF8=BBC93715F0024C8F8E3A0E55BBF0ECEF	GsbMedecin	C:\Mes Projets\GSB_Mobile\Exe\Application iOS\GsbMedecin.FIC
+LOCALIZATION_UTF8=C49226B38551413C925E386B3342FE86	GsbSpecialiteMedecin	C:\Mes Projets\GSB_Mobile\Exe\Application iOS\GsbSpecialiteMedecin.FIC
+LOCALIZATION_UTF8=54303B65E04E41F6A8FC543F5FC79FDA	Gsbregion	C:\Mes Projets\GSB_Mobile\Exe\Application iOS\Gsbregion.FIC
+LOCALIZATION_UTF8=BBC93715F0024C8F8E3A0E55BBF0ECEF	GsbMedecin	I:\Mes Projets\GSB_Mobile\Exe\Application iOS\gsbmedecin.fic
+LOCALIZATION_UTF8=54303B65E04E41F6A8FC543F5FC79FDA	Gsbregion	I:\Mes Projets\GSB_Mobile\Exe\Application iOS\gsbregion.fic
+LOCALIZATION_UTF8=C49226B38551413C925E386B3342FE86	GsbSpecialiteMedecin	I:\Mes Projets\GSB_Mobile\Exe\Application iOS\gsbspecialitemedecin.fic
+LOCALIZATION_UTF8=54303B65E04E41F6A8FC543F5FC79FDA	Gsbregion	D:\Mes Projets\GSB_Mobile\Exe\Application iOS\Gsbregion.FIC
+LOCALIZATION_UTF8=C49226B38551413C925E386B3342FE86	GsbSpecialiteMedecin	D:\Mes Projets\GSB_Mobile\Exe\Application iOS\GsbSpecialiteMedecin.FIC
+LOCALIZATION_UTF8=54303B65E04E41F6A8FC543F5FC79FDA	Gsbregion	D:\Mes Projets\GSB_Mobile\Exe\Application Android\Gsbregion.FIC
+LOCALIZATION_UTF8=BBC93715F0024C8F8E3A0E55BBF0ECEF	GsbMedecin	D:\Mes Projets\GSB_Mobile\Exe\Application iOS\gsbmedecin.fic

@@ -1,0 +1,14 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+GsbMedecin	med_id	CLEU*		la rubrique med_id est maintenant une clé
+GsbMedecin	med_id	RDP+		
+GsbMedecin	med_specialite	CLEN*		la rubrique med_specialite est maintenant une clé
+GsbMedecin	med_region	CLEN*		la rubrique med_region est maintenant une clé
+Gsbregion	reg_code	CLEU*		la rubrique reg_code est maintenant une clé
+Gsbregion	reg_code	RDP+		
+GsbSpecialiteMedecin	spe_code	CLEU*		la rubrique spe_code est maintenant une clé
+GsbSpecialiteMedecin	spe_code	RDP+		
+Contrainte_GsbMedecin_Gsbregion		NWL	Gsbregion (reg_code) et GsbMedecin (med_region)	Nouvelle liaison entre les fichiers Gsbregion (reg_code) et GsbMedecin (med_region)
+Contrainte_GsbMedecin_GsbSpecialiteMedecin		NWL	GsbSpecialiteMedecin (spe_code) et GsbMedecin (med_specialite)	Nouvelle liaison entre les fichiers GsbSpecialiteMedecin (spe_code) et GsbMedecin (med_specialite)
+GsbMedecin		FRN		
+Gsbregion		FRN		
+GsbSpecialiteMedecin		FRN		
